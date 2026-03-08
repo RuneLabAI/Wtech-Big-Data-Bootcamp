@@ -1,5 +1,4 @@
-# Wtech Big Data Bootcamp — Kaynak Deposu
-
+# Wtech Big Data Bootcamp
 Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlenen konulara ait notları, örnek kodları, alıştırmaları ve ek kaynakları barındırır. Toplam **6 hafta / 10 oturum** boyunca Big Data'nın temellerinden GenAI'a uzanan kapsamlı bir yolculuk izlenmektedir.
 
 ---
@@ -14,41 +13,10 @@ Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlen
 | 4 | [Linux, Docker ve Bitirme Projesi Tanıtımı](week2/04-linux-docker/) | 12 Mart | Hafta 2 |
 | 5 | [Apache Spark — PySpark Temelleri](week3/05-apache-spark-pyspark/) | 17 Mart | Hafta 3 |
 | 6 | [Veri Ambarı, ETL ve Airflow](week3/06-data-warehouse-etl-airflow/) | 19 Mart | Hafta 3 |
-| 7 | [Apache Kafka Temelleri](week5/07-apache-kafka/) | 24 Mart | Hafta 5 |
-| 8 | [Data Engineering Tool Ekosistemi](week5/08-data-engineering-ecosystem/) | 26 Mart | Hafta 5 |
-| 9 | [Power BI ve Dashboard Yapıları](week6/09-powerbi-dashboards/) | 26 Mart | Hafta 6 |
-| 10 | [GenAI'ya Giriş ve Kapanış](week6/10-genai-intro/) | 31 Mart | Hafta 6 |
-
----
-
-## Repo Yapısı
-
-```
-Wtech-Big-Data-Bootcamp/
-│
-├── week1/
-│   ├── 01-big-data-fundamentals/       # Big Data nedir, 5V, MapReduce, araçlar
-│   └── 02-sql-database-fundamentals/   # SQL temelleri, JOIN'ler, e-ticaret case
-│       └── data/                       # SQLite DB, şema ve veri üretici script
-│
-├── week2/
-│   ├── 03-python-data-manipulation/    # NumPy, Pandas, EDA, görselleştirme
-│   └── 04-linux-docker/                # Linux komutları, Git, Docker, Compose
-│
-├── week3/
-│   ├── 05-apache-spark-pyspark/        # Spark mimarisi, DataFrame API, PySpark
-│   └── 06-data-warehouse-etl-airflow/  # DWH, Star/Snowflake schema, ETL, Airflow
-│
-├── week5/
-│   ├── 07-apache-kafka/                # Event streaming, Kafka mimarisi, hands-on
-│   └── 08-data-engineering-ecosystem/  # Databricks, Delta Lake, cloud platformları
-│
-├── week6/
-│   ├── 09-powerbi-dashboards/          # Power BI, DAX, DirectQuery, dashboard UX
-│   └── 10-genai-intro/                 # LLM, RAG, embedding, vektör DB, agents
-│
-└── capstone-project/                   # Bitirme projesi — dataset, beklentiler, teslim
-```
+| 7 | [Apache Kafka Temelleri](week5/07-apache-kafka/) | 24 Mart | Hafta 4 |
+| 8 | [Data Engineering Tool Ekosistemi](week5/08-data-engineering-ecosystem/) | 26 Mart | Hafta 4 |
+| 9 | [Power BI ve Dashboard Yapıları](week6/09-powerbi-dashboards/) | 26 Mart | Hafta 5 |
+| 10 | [GenAI'ya Giriş ve Kapanış](week6/10-genai-intro/) | 31 Mart | Hafta 5 |
 
 ---
 
@@ -88,16 +56,40 @@ Proje dosyaları ve değerlendirme kriterleri için [`capstone-project/`](capsto
 
 ---
 
-## Katkıda Bulunma
 
-Her oturumun klasörüne not, kaynak linki veya örnek kod ekleyebilirsiniz. Lütfen pull request açmadan önce ilgili hafta klasörü altında düzenleme yapın.
-
----
-
-## Eğitmenler & Organizasyon
-
-| | LinkedIn |
+| Eğitmen & Organizasyon | LinkedIn |
 |-|----------|
 | Enes Fehmi Manan | [linkedin.com/in/enesfehmimanan](https://www.linkedin.com/in/enesfehmimanan/) |
 | Engin Deniz Alpman | [linkedin.com/in/engindenizalpman](https://www.linkedin.com/in/engindenizalpman/) |
 | Runelab AI | [linkedin.com/company/runelab-ai](https://www.linkedin.com/company/runelab-ai) |
+
+---
+
+## Repo Yapısı
+
+```
+Wtech-Big-Data-Bootcamp/
+│
+├── week1/
+│   ├── 01-big-data-fundamentals/       # Big Data nedir, 5V, MapReduce, araçlar
+│   └── 02-sql-database-fundamentals/   # SQL temelleri, JOIN'ler, e-ticaret case
+│       └── data/                       # SQLite DB, şema ve veri üretici script
+│
+├── week2/
+│   ├── 03-python-data-manipulation/    # NumPy, Pandas, EDA, görselleştirme
+│   └── 04-linux-docker/                # Linux komutları, Git, Docker, Compose
+│
+├── week3/
+│   ├── 05-apache-spark-pyspark/        # Spark mimarisi, DataFrame API, PySpark
+│   └── 06-data-warehouse-etl-airflow/  # DWH, Star/Snowflake schema, ETL, Airflow
+│
+├── week5/
+│   ├── 07-apache-kafka/                # Event streaming, Kafka mimarisi, hands-on
+│   └── 08-data-engineering-ecosystem/  # Databricks, Delta Lake, cloud platformları
+│
+├── week6/
+│   ├── 09-powerbi-dashboards/          # Power BI, DAX, DirectQuery, dashboard UX
+│   └── 10-genai-intro/                 # LLM, RAG, embedding, vektör DB, agents
+│
+└── capstone-project/                   # Bitirme projesi — dataset, beklentiler, teslim
+```
