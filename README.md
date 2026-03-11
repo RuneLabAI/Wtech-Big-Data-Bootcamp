@@ -63,33 +63,3 @@ Proje dosyaları ve değerlendirme kriterleri için [`capstone-project/`](capsto
 | Engin Deniz Alpman | [linkedin.com/in/engindenizalpman](https://www.linkedin.com/in/engindenizalpman/) |
 | Runelab AI | [linkedin.com/company/runelab-ai](https://www.linkedin.com/company/runelab-ai) |
 
----
-
-## Repo Yapısı
-
-```
-Wtech-Big-Data-Bootcamp/
-│
-├── week1/
-│   ├── 01-big-data-fundamentals/       # Big Data nedir, 5V, MapReduce, araçlar
-│   └── 02-sql-database-fundamentals/   # SQL temelleri, JOIN'ler, e-ticaret case
-│       └── data/                       # SQLite DB, şema ve veri üretici script
-│
-├── week2/
-│   ├── 03-python-data-manipulation/    # NumPy, Pandas, EDA, görselleştirme
-│   └── 04-linux-docker/                # Linux komutları, Git, Docker, Compose
-│
-├── week3/
-│   ├── 05-apache-spark-pyspark/        # Spark mimarisi, DataFrame API, PySpark
-│   └── 06-data-warehouse-etl-airflow/  # DWH, Star/Snowflake schema, ETL, Airflow
-│
-├── week5/
-│   ├── 07-apache-kafka/                # Event streaming, Kafka mimarisi, hands-on
-│   └── 08-data-engineering-ecosystem/  # Databricks, Delta Lake, cloud platformları
-│
-├── week6/
-│   ├── 09-powerbi-dashboards/          # Power BI, DAX, DirectQuery, dashboard UX
-│   └── 10-genai-intro/                 # LLM, RAG, embedding, vektör DB, agents
-│
-└── capstone-project/                   # Bitirme projesi — dataset, beklentiler, teslim
-```
