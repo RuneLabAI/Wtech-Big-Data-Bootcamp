@@ -27,7 +27,7 @@ Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlen
 - **Oturum 2:** İlişkisel veritabanı modelleme, normalizasyon, index & trigger, JOIN türleri. E-ticaret veritabanı üzerinden gerçek sorgu senaryoları. SQL vs NoSQL karar kriterleri.
 
 ### Hafta 2 — Python Ekosistemi & DevOps
-- **Oturum 3:** Python proje yapısı (venv, requirements.txt), NumPy array işlemleri, Pandas ile veri yükleme/temizleme/dönüştürme, EDA teknikleri, Matplotlib & Seaborn.
+- **Oturum 3:** Veri bilimi yaşam döngüsü, Python proje yapısı (venv, requirements.txt), NumPy array işlemleri, Pandas ile veri yükleme/temizleme/dönüştürme, EDA teknikleri, Matplotlib & Seaborn, baseline model.
 - **Oturum 4:** Linux temel komutları, Git versiyon kontrolü, Docker mimarisi (image/container/volume), Dockerfile yazımı, Docker Compose. Bitirme projesi tanıtımı.
 
 ### Hafta 3 — Büyük Ölçekli İşleme

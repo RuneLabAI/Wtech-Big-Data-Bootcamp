@@ -1,6 +1,6 @@
 # Oturum 4 — Linux, Docker ve Bitirme Projesi Tanıtımı
 
-**Tarih:** 12 Mart 2025 | **Hafta 2** | **Eğitmen:** Enes
+**Tarih:** 12 Mart 2025 | **Hafta 2** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 
 ---
 

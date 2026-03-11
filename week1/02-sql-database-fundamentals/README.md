@@ -1,6 +1,6 @@
 # Oturum 2 — Veritabanı ve SQL Temelleri
 
-**Tarih:** 5 Mart 2025 | **Hafta 1** | **Eğitmen:** Enes
+**Tarih:** 5 Mart 2025 | **Hafta 1** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 
 ---
 
