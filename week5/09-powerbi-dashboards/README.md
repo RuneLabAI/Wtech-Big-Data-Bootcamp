@@ -1,4 +1,4 @@
-# Oturum 9 — Power BI ve Dashboard Yapıları
+# Oturum 9: Power BI ve Dashboard Yapıları
 
 **Tarih:** 26 Mart 2025 | **Hafta 5** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 

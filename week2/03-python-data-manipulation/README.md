@@ -1,4 +1,4 @@
-# Oturum 3 — Proje Yapıları ve Veri Manipülasyonu
+# Oturum 3: Proje Yapıları ve Veri Manipülasyonu
 
 **Tarih:** 10 Mart 2025 | **Hafta 2** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 

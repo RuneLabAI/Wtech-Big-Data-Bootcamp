@@ -1,5 +1,5 @@
 # Wtech Big Data Bootcamp
-Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlenen konulara ait notları, örnek kodları, alıştırmaları ve ek kaynakları barındırır. Toplam **6 hafta / 10 oturum** boyunca Big Data'nın temellerinden GenAI'a uzanan kapsamlı bir yolculuk izlenmektedir.
+Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlenen konulara ait notları, örnek kodları, alıştırmaları ve ek kaynakları barındırır. Toplam **5 hafta / 10 oturum** boyunca Big Data'nın temellerinden GenAI'a uzanan kapsamlı bir yolculuk izlenmektedir.
 
 ---
 
@@ -11,7 +11,7 @@ Bu repo, **Runelab × Wtech Big Data Bootcamp** eğitim programı boyunca işlen
 | 2 | [Veritabanı ve SQL Temelleri](week1/02-sql-database-fundamentals/) | 5 Mart | Hafta 1 |
 | 3 | [Proje Yapıları ve Veri Manipülasyonu](week2/03-python-data-manipulation/) | 10 Mart | Hafta 2 |
 | 4 | [Linux, Docker ve Bitirme Projesi Tanıtımı](week2/04-linux-docker/) | 12 Mart | Hafta 2 |
-| 5 | [Apache Spark — PySpark Temelleri](week3/05-apache-spark-pyspark/) | 17 Mart | Hafta 3 |
+| 5 | [Apache Spark: PySpark Temelleri](week3/05-apache-spark-pyspark/) | 17 Mart | Hafta 3 |
 | 6 | [Veri Ambarı, ETL ve Airflow](week3/06-data-warehouse-etl-airflow/) | 19 Mart | Hafta 3 |
 | 7 | [Apache Kafka Temelleri](week5/07-apache-kafka/) | 24 Mart | Hafta 4 |
 | 8 | [Data Engineering Tool Ekosistemi](week5/08-data-engineering-ecosystem/) | 26 Mart | Hafta 4 |

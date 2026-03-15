@@ -1,4 +1,4 @@
-# Oturum 7 — Apache Kafka Temelleri
+# Oturum 7: Apache Kafka Temelleri
 
 **Tarih:** 24 Mart 2025 | **Hafta 4** | **Eğitmen:** [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 

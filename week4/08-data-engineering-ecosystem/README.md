@@ -1,4 +1,4 @@
-# Oturum 8 — Data Engineering Tool Ekosistemi
+# Oturum 8: Data Engineering Tool Ekosistemi
 
 **Tarih:** 26 Mart 2025 | **Hafta 4** | **Eğitmen:** [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 

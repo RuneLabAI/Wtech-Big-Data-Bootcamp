@@ -1,4 +1,4 @@
-# Oturum 1 — Big Data Temelleri
+# Oturum 1: Big Data Temelleri
 
 **Tarih:** 3 Mart 2025 | **Hafta 1** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 

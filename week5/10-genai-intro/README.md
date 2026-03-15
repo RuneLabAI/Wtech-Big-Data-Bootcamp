@@ -1,4 +1,4 @@
-# Oturum 10 — GenAI Kavramlarına Giriş ve Kapanış
+# Oturum 10: GenAI Kavramlarına Giriş ve Kapanış
 
 **Tarih:** 31 Mart 2025 | **Hafta 5** | **Eğitmen:** [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 

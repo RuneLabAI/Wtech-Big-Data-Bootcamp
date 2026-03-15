@@ -1,4 +1,4 @@
-# Oturum 5 — Apache Spark & PySpark Temelleri
+# Oturum 5: Apache Spark & PySpark Temelleri
 
 **Tarih:** 17 Mart 2025 | **Hafta 3** | **Eğitmen:** [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 

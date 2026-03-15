@@ -1,4 +1,4 @@
-# Oturum 6 — Veri Ambarı, ETL ve Airflow
+# Oturum 6: Veri Ambarı, ETL ve Airflow
 
 **Tarih:** 19 Mart 2025 | **Hafta 3** | **Eğitmen:** [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 
