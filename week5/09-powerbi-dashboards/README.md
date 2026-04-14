@@ -14,12 +14,3 @@
 
 ---
 
-## Notlar
-
-> Bu klasöre `.pbix` dosyaları, DAX formül örnekleri ve dashboard tasarım kılavuzları eklenebilir.
-
----
-
-## Kaynaklar
-
-- [ ] Kaynak eklenecek
