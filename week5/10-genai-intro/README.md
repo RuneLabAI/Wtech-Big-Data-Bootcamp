@@ -15,14 +15,3 @@
 - Agent kavramı ve agentic mimarilerin dönüşümü
 - Data Engineering kariyer yolları ve sertifikasyon rehberi
 
----
-
-## Notlar
-
-> Bu klasöre prompting örnekleri, RAG demo notebook'u ve kariyer yol haritaları eklenebilir.
-
----
-
-## Kaynaklar
-
-- [ ] Kaynak eklenecek
